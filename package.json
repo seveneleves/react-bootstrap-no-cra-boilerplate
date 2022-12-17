@@ -1,7 +1,7 @@
 {
   "name": "react-without-cra",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Application boilerplate without CRA thanks to https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
